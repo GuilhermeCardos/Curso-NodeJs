@@ -1,3 +1,3 @@
 # Curso_NodeJs
  Curso de NodeJs.
- \nStatus: Em andamento.
+ Status: Em andamento.
